@@ -27,7 +27,7 @@ git clone https://github.com/resole79/semantic_nlp.git
 3. **Run** the **watch_next.py** file:
 
 ```sh
-python watch_next.py
+python3 watch_next.py
 ```
 
 #### File Structure   
