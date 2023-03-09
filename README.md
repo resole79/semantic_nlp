@@ -24,7 +24,7 @@ python -m spacy download en_core_web_md
 git clone https://github.com/resole79/semantic_nlp.git
 ```
 
-3. **Run** the **task_manager.py** file:
+3. **Run** the **watch_next.py** file:
 
 ```sh
 python watch_next.py
